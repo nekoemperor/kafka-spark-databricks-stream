@@ -1,3 +1,7 @@
+## demo - Confluent, Kafka, Spark, Databricks
+
+DISCLAIMER!!!: This repo is created based on [GitHub Sean Coyne](https://github.com/scoyne2/kafka_spark_streams) and his [YouTube](https://www.youtube.com/watch?v=qFG7aJRfhsc) for exercise purpose.
+
 1. Get [Twitter API Credentials](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
 2. Create env file named `.env` with the below (replacing XXX with your actual keys). This will be ignored by .gitignore. 
    ```
